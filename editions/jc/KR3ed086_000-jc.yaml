@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3ed086/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後跋金匱歌括者吾師靈石先生續師祖修園老夫子大人金匱淺注之後而作所以便後學傳誦之章也會未及門時即讀傷寒論淺注並長沙歌括沉潛玩索竟莫能窺其底蘊本年春因從吾師遊聞吾師緒論深以未成父書為憾及夏間金匱淺注書成付梓復踵成歌括六卷俱告竣吾師學有淵源能繼先志雖殫精竭慮歷有年所亦可謂息重任矣會不敏忝附門牆瞻仰吾師家傳之精蘊豈遽能彷彿萬一哉是書之出有裨於世而海內之先快睹者已不啻景星慶雲之慕矣會又何庸贅焉受業門人葉享會謹跋
+  hash: sha256:804ae0f89ede3e952543a003c874d0d63baa34598bd67b06bf3c91a5fe7c6799
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ed086_jc_000-d11.h1s1}
+metadata:
+  title: 金匱方歌括
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ed086.xml
+hash: sha256:e00c11586376f20ea9532e41196ab96ce1a08d62e5c129f4861651688a81fc03
